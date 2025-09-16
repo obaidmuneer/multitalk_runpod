@@ -18,4 +18,4 @@ fi
 $PY -V || true
 which $PY || true
 
-exec $PY handler.py
+exec $PY rp_handler.py
